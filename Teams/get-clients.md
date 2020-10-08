@@ -135,7 +135,7 @@ You can launch Teams via Activities or via Terminal by typing `teams`.
 
 #### Install manually from the command line
 
-Install manually on Debian and Ubuntu distributions:
+Install manually on Ubuntu distributions:
 
 ```bash
 curl https://packages.microsoft.com/keys/microsoft.asc | sudo apt-key add -
